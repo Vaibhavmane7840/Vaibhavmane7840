@@ -1,19 +1,15 @@
 
-<!DOCTYPE html>
-<html>
-<head>
-  <title>My GitHub Profile</title>
-</head>
-<body>
-  <h1>Welcome to my GitHub profile!</h1>
-  <img src="https://avatars3.githubusercontent.com/u/YOUR_USERNAME" alt="Profile Picture">
-  <h2>About me</h2>
-  <p>I am a developer and a open source enthusiast.</p>
-  <h2>My repositories</h2>
-  <ul>
-    <li><a href="https://github.com/YOUR_USERNAME/repo1">Repository 1</a></li>
-    <li><a href="https://github.com/YOUR_USERNAME/repo2">Repository 2</a></li>
-    <li><a href="https://github.com/YOUR_USERNAME/repo3">Repository 3</a></li>
-  </ul>
-</body>
-</html>
+
+![alt text](https://github.com/Vaibhav/Vaibhav/blob/main/VAIBHAV-MANE(10).gif "Logo Title Text 1")
+
+❤❤❤
+### Hi there 👋
+
+My name is Vaibhav Mane. I am a data scientist & a Mechanical engineer. I’m currently working on building up my portfolio. 
+You can reach out at :
+
+ - E-mail: vaibhavmane4978@gmail.com
+ - linkedin: https://www.linkedin.com/in/vaibhavmane7840/
+ - kaggle: https://www.kaggle.com/vaibhavmane
+
+Stay awesome!
